@@ -1,0 +1,4 @@
+c:\users\vuong\documents\visual studio 2015\Projects\thu vien\Model\bin\Debug\Model.dll
+c:\users\vuong\documents\visual studio 2015\Projects\thu vien\Model\bin\Debug\Model.pdb
+c:\users\vuong\documents\visual studio 2015\Projects\thu vien\Model\obj\Debug\Model.dll
+c:\users\vuong\documents\visual studio 2015\Projects\thu vien\Model\obj\Debug\Model.pdb
