@@ -1,20 +1,23 @@
 ﻿using System;
-using quan_ly_thu_vien.Objects;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
-namespace quan_ly_thu_vien.Model
+using quan_ly_thu_vien.Objects;
 
+namespace quan_ly_thu_vien.Model
 {
-    class SinhVien_Model
+    class ChiTietPhieuMuon_Model
     {
         KetNoiDB con = new KetNoiDB();
-        
         SqlCommand cmd = new SqlCommand();
-
+        
         public DataTable GetData()
         {
             DataTable dt = new DataTable();
-            cmd.CommandText = "select * from sinhvien";
+            cmd.CommandText = "select * from chitietphieumuon";
             cmd.CommandType = CommandType.Text;
             cmd.Connection = con.Connection;
             try
@@ -24,7 +27,7 @@ namespace quan_ly_thu_vien.Model
                 sda.Fill(dt);
                 con.CloseCon();
             }
-            catch (Exception ex)
+            catch(Exception ex)
             {
                 string mex = ex.Message;
                 cmd.Dispose();//xoa bo phien lam viec
@@ -33,11 +36,34 @@ namespace quan_ly_thu_vien.Model
             }
             return dt;
         }
-
+       
         //them data
-        public bool AddData(SinhVien_Obh svObj)
+        public bool AddData(ChiTietPhieuMuon_Ob ctOj)
         {
-            cmd.CommandText = "insert into sinhvien values ('" + svObj.Mathe + "',N'" + svObj.TenSV + "',CONVERT(DATE, '" + svObj.Ngaysinh + "',103),N'" + svObj.DiaChi + "',N'" + svObj.Lop + "','" + svObj.Khoa + "',CONVERT(DATE, '" + svObj.NgayCapThe + "',103)CONVERT(DATE, '" + svObj.NgayHetHan + "',103),'" + svObj.Gioitinh + "' )";
+            cmd.CommandText = "insert into chitietphieumuon values ('"+ctOj.SoPhieuMuon1 + "','"+ctOj.MaSach1 + "',CONVERT(DATE, '"+ctOj.HenTra1+"',103) )";
+            cmd.CommandType = CommandType.Text;
+            cmd.Connection = con.Connection;
+            try
+            {
+                con.OpenCon();
+                cmd.ExecuteNonQuery();
+                con.CloseCon();
+                return true;
+
+            }
+            catch (Exception ex)
+            {
+                string mex = ex.Message;
+                cmd.Dispose();//xoa bo phien lam viec
+                con.CloseCon();
+
+            }
+            return false;
+        }
+
+        public bool UpdateData(ChiTietPhieuMuon_Ob ctOj)
+        {
+            cmd.CommandText = "Update chitietphieumuon set SoPhieuMuon ='" + ctOj.SoPhieuMuon1 + "', MaSach = '" + ctOj.MaSach1 + "', HenTra = CONVERT(DATE, '" + ctOj.HenTra1 + "',103) where sophieu= '"+ctOj.SoPhieuMuon1+"')";
             cmd.CommandType = CommandType.Text;
             cmd.Connection = con.Connection;
             try
@@ -52,36 +78,14 @@ namespace quan_ly_thu_vien.Model
                 string mex = ex.Message;
                 cmd.Dispose();//xoa bo phien lam viec
                 con.CloseCon();
-                
-            }
-            return false;
-        }
-
-        public bool UpdateData(SinhVien_Obh svObj)
-        {
-            cmd.CommandText = "Update sinhvien set MaThe ='" + svObj.Mathe + "', TenSV  = N'" + svObj.TenSV + "', Ngaysinh = CONVERT(DATE, '" + svObj.Ngaysinh + "',103),DiaChi=N'"+svObj.DiaChi+"', Lop=N'"+svObj.Lop+"',Khoa=N'"+svObj.Khoa+ "',NgayCapThe = CONVERT(DATE, '" + svObj.NgayCapThe + "',103), NgayHetHan = CONVERT(DATE, '" + svObj.NgayHetHan + "',103),gioitinh= '" + svObj.Gioitinh + "' where sophieu= '" + svObj.Mathe + "')";
-            cmd.CommandType = CommandType.Text;
-            cmd.Connection = con.Connection;
-            try
-            {
-                con.OpenCon();
-                cmd.ExecuteNonQuery();
-                con.CloseCon();
-                return true;
-            }
-            catch (Exception ex)
-            {
-                string mex = ex.Message;
-                cmd.Dispose();//xoa bo phien lam viec
-                con.CloseCon();
 
             }
             return false;
         }
 
-        public bool DeleteData(String mathe)
+        public bool DeleteData(String ma)
         {
-            cmd.CommandText = "delete sinhvien where sophieu='" + mathe + "'";
+            cmd.CommandText = "delete chitietphieumuon where sophieu='"+ma+"'";
             cmd.CommandType = CommandType.Text;
             cmd.Connection = con.Connection;
             try
@@ -102,4 +106,3 @@ namespace quan_ly_thu_vien.Model
         }
     }
 }
-
