@@ -6,3 +6,6 @@ c:\users\vuong\documents\visual studio 2015\Projects\thu vien\thu vien\obj\Debug
 c:\users\vuong\documents\visual studio 2015\Projects\thu vien\thu vien\obj\Debug\thu vien.csproj.GenerateResource.Cache
 c:\users\vuong\documents\visual studio 2015\Projects\thu vien\thu vien\obj\Debug\thu vien.exe
 c:\users\vuong\documents\visual studio 2015\Projects\thu vien\thu vien\obj\Debug\thu vien.pdb
+C:\Users\vuong\Documents\GitHub\thu-vien\thu vien\thu vien\bin\Debug\thu vien.exe.config
+C:\Users\vuong\Documents\GitHub\thu-vien\thu vien\thu vien\obj\Debug\thu vien.exe
+C:\Users\vuong\Documents\GitHub\thu-vien\thu vien\thu vien\obj\Debug\thu vien.pdb

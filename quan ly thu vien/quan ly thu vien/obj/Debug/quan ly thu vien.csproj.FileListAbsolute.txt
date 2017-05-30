@@ -1,0 +1,11 @@
+c:\users\vuong\documents\visual studio 2015\Projects\quan ly thu vien\quan ly thu vien\bin\Debug\quan ly thu vien.exe.config
+c:\users\vuong\documents\visual studio 2015\Projects\quan ly thu vien\quan ly thu vien\obj\Debug\quan ly thu vien.csprojResolveAssemblyReference.cache
+c:\users\vuong\documents\visual studio 2015\Projects\quan ly thu vien\quan ly thu vien\obj\Debug\quan_ly_thu_vien.Properties.Resources.resources
+c:\users\vuong\documents\visual studio 2015\Projects\quan ly thu vien\quan ly thu vien\obj\Debug\quan_ly_thu_vien.FromMain.resources
+c:\users\vuong\documents\visual studio 2015\Projects\quan ly thu vien\quan ly thu vien\obj\Debug\quan ly thu vien.csproj.GenerateResource.Cache
+c:\users\vuong\documents\visual studio 2015\Projects\quan ly thu vien\quan ly thu vien\bin\Debug\quan ly thu vien.exe
+c:\users\vuong\documents\visual studio 2015\Projects\quan ly thu vien\quan ly thu vien\bin\Debug\quan ly thu vien.pdb
+c:\users\vuong\documents\visual studio 2015\Projects\quan ly thu vien\quan ly thu vien\obj\Debug\quan ly thu vien.exe
+c:\users\vuong\documents\visual studio 2015\Projects\quan ly thu vien\quan ly thu vien\obj\Debug\quan ly thu vien.pdb
+c:\users\vuong\documents\visual studio 2015\Projects\quan ly thu vien\quan ly thu vien\obj\Debug\quan_ly_thu_vien.View.frmChiTietPhieuMuon.resources
+C:\Users\vuong\documents\visual studio 2015\Projects\quan ly thu vien\quan ly thu vien\obj\Debug\quan_ly_thu_vien.View.frmSinhVien.resources
