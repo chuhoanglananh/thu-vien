@@ -1,0 +1,43 @@
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\QLTV.exe.config
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\QLTV.exe
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\QLTV.pdb
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.Form1.resources
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.exe
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\vuong\Desktop\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\vuong\Desktop\QLTV\QLTV\QLTV\obj\Debug\QLTV.exe
+C:\Users\vuong\Desktop\QLTV\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\vuong\Desktop\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe
+C:\Users\vuong\Desktop\QLTV\QLTV\QLTV\bin\Debug\QLTV.pdb
+C:\Users\vuong\Desktop\QLTV\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+C:\Users\vuong\Desktop\QLTV\QLTV\QLTV\obj\Debug\QLTV.Form1.resources
+C:\Users\vuong\Desktop\QLTV\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\vuong\Desktop\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+C:\Users\vuong\Desktop\QLTV\QLTV\QLTV\obj\Debug\QLTV.frmChiTiet.resources
+C:\Users\vuong\Desktop\QLTV\QLTV\QLTV\obj\Debug\QLTV.frmMuonSach.resources
+C:\Users\HueLK\Downloads\QLTV\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\HueLK\Downloads\QLTV\QLTV\obj\Debug\QLTV.exe
+C:\Users\HueLK\Downloads\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\HueLK\Downloads\QLTV\QLTV\bin\Debug\QLTV.exe
+C:\Users\HueLK\Downloads\QLTV\QLTV\bin\Debug\QLTV.pdb
+C:\Users\HueLK\Downloads\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+C:\Users\HueLK\Downloads\QLTV\QLTV\obj\Debug\QLTV.Form1.resources
+C:\Users\HueLK\Downloads\QLTV\QLTV\obj\Debug\QLTV.frmChiTiet.resources
+C:\Users\HueLK\Downloads\QLTV\QLTV\obj\Debug\QLTV.frmMuonSach.resources
+C:\Users\HueLK\Downloads\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\HueLK\Downloads\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+C:\Users\vuong\Downloads\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\vuong\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.exe
+C:\Users\vuong\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\vuong\Downloads\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe
+C:\Users\vuong\Downloads\QLTV\QLTV\QLTV\bin\Debug\QLTV.pdb
+C:\Users\vuong\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+C:\Users\vuong\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.Form1.resources
+C:\Users\vuong\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.frmChiTiet.resources
+C:\Users\vuong\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.frmMuonSach.resources
+C:\Users\vuong\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\vuong\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+C:\Users\vuong\Downloads\QLTV\QLTV\QLTV\obj\Debug\QLTV.frmNhanVien.resources
