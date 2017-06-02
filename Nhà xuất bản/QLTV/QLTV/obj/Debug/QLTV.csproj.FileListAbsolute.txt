@@ -1,0 +1,12 @@
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\QLTV.exe.config
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\QLTV.exe
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\bin\Debug\QLTV.pdb
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.Form1.resources
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.exe
+c:\users\huelk\documents\visual studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\HueLK\Documents\Visual Studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.frmMuonSach.resources
+C:\Users\HueLK\Documents\Visual Studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.frmNhanVien.resources
+C:\Users\HueLK\Documents\Visual Studio 2015\Projects\QLTV\QLTV\obj\Debug\QLTV.frmNXB.resources
